@@ -8,7 +8,7 @@ public class Main {
 		
 		Pessoa p2 = new Pessoa();
 		
-		p2.nome = "Walter";
+		p2.nome = "Kraus";
 		p2.idade = 54;
 		
 		System.out.println(p1.nome);
